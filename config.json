@@ -1,9 +1,9 @@
-(ini hapus aja , Jangan lupa subscribe lemes aku cuk)
+
 
 
 {
-	"ip":"gatotkacaserver.aternos.me",
+	"ip":"gatotkacaserver.aternos.me:61982",
 	"port": "25565",
-	"name": "Gatotkacaserver",
+	"name": "Bot",
 	"auto-night-skip":"false"
 }
